@@ -31,27 +31,27 @@ const cakes = [
 const cocktails = [
   {
     title: 'Aperol Sprtiz',
-    priceperkg: 'Ksh920',
+    price: 'Ksh920',
     tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
   },
   {
     title: "Dark 'N' Stormy",
-    priceperkg: 'Ksh700',
+    price: 'Ksh700',
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
     title: 'Daiquiri',
-    priceperkg: 'Ksh1000',
+    price: 'Ksh1000',
     tags: 'Rum | Citrus juice | Sugar',
   },
   {
     title: 'Old Fashioned',
-    priceperkg: '$900',
+    price: 'Ksh900',
     tags: 'Bourbon | Brown sugar | Angostura Bitters',
   },
   {
     title: 'Negroni',
-    priceperkg: '$800',
+    price: 'Ksh800',
     tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
   },
 ];
